@@ -1,7 +1,17 @@
 # Off with their heads!
 
 A guillotine for gnome-terminal, the default terminal for gnome.
-Remove the header from the terminal window for a cleaner feel.
+Remove the head(erbar) from the terminal window for a cleaner feel.
+
+This is the default terminal with its beautiful titlebar...
+
+![before](https://github.com/safesintesi/terminal-guillotine/assets/45028610/dc2a529c-d284-4f72-9dd7-54eb98306fa5)
+
+... and off the head!
+
+![after](https://github.com/safesintesi/terminal-guillotine/assets/45028610/c9a47abd-bc0f-483d-a195-24db2b5e874a)
+
+
 
 ## How to install
 
