@@ -1,0 +1,18 @@
+/*** safesintesi's guillotine - begin ***/
+
+/* delete header terminal */
+terminal-window headerbar *,
+terminal-window .titlebar
+{
+  background-image:none;
+  background-color:transparent;
+  margin-top:-100px;
+}
+
+/* remove rounded corners */
+terminal-window decoration {
+    border-radius: 0px 0px 0px 0px
+}
+
+/*** safesintesi's guillotine - end ***/
+
