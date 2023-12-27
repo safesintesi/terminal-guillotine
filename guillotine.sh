@@ -1,5 +1,5 @@
 # Checks if gtk theme dir exists and adds it otherwise
-tmpdir='~/.config/gtk-3.0'
+tmpdir="$HOME/.config/gtk-3.0"
 [ -d $tmpdir ] || mkdir -p $tmpdir
 [ -f $tmpdir/gtk.css ] || :>$tmpdir/gtk.css
 
