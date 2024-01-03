@@ -25,4 +25,10 @@ If you want to check the code and do everything by yourself,
 just copy the content of `gtk.css` in this repo and paste it
 at the end of `~/.config/gtk-3.0/gtk.css`.
 
+## Support
+
+If you liked this and you have too much money on you...
+
+<a href="https://www.buymeacoffee.com/safesintesi" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" style="height: 60px !important;width: 217px !important;" ></a>
+
 
