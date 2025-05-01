@@ -8,3 +8,5 @@ wget \
     https://raw.githubusercontent.com/safesintesi/terminal-guillotine/main/gtk.css \
     -qO- >> $tmpdir/gtk.css
 
+# Remove all headerbar traces
+gsettings set org.gnome.Terminal.Legacy.Settings headerbar false
